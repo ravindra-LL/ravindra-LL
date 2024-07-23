@@ -9,8 +9,8 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python 🐍, JavaScript 🌐, C 💻, PHP 🌟, SQL 📊
-- **Backend:** Node.js 🚀, Express.js 🌐
+- **Languages:** Python 🐍, JavaScript 🌐, TypeScript 📘, SQL 📊
+- **Backend:** Node.js 🚀, Express.js 🌐, NestJS 🛡️
 - **Frontend:** React ⚛️
 - **Databases:** MongoDB 🍃
 
