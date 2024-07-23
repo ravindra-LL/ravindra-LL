@@ -31,17 +31,6 @@
 
 ---
 
-## 🌟 Notable Projects
-
-### 🔗 [Fynd Odoo Connector Extension](https://github.com/ravindra-LL)
-
-- **Description:** This extension facilitates seamless data synchronization between the Fynd platform and the Odoo platform, ensuring accurate and efficient transfer of customer records, product records, and order records.
-- **Technology Stack:**
-  - **Backend:** Node.js with Express
-  - **Frontend:** React integrated into the same server
-
----
-
 ## 📈 Professional Interests
 
 - Continuous learning and staying updated with the latest technologies.
